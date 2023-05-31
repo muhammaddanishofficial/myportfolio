@@ -147,7 +147,9 @@ header .follow a:hover{
     z-index: 10000;
     transition: .3s linear;
 }
-
+.text p{
+     text-align:justify;
+}
 .cursor-2.active{
     display: none;
 }
