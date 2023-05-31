@@ -175,7 +175,9 @@ header .follow a:hover{
 .home .content{
     flex:1 1 40rem;
 }
-
+.home .content p{
+    text-align: justify;
+}
 .home .content .hi{
     font-size: 2rem;
     color:var(--main-color);
@@ -245,6 +247,10 @@ header .follow a:hover{
     color:#666;
     font-size: 1.7rem;
     padding:.5rem 0;
+}
+
+.about .row-1 .content .content-box p{
+    text-align: justify;
 }
 
 .about .row-1 .content .box-container{
