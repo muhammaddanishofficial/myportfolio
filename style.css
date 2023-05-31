@@ -150,6 +150,9 @@ header .follow a:hover{
 .text p{
      text-align:justify;
 }
+.content-box p{
+     text-align:justify;
+}
 .cursor-2.active{
     display: none;
 }
